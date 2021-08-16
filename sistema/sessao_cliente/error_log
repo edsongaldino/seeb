@@ -1,0 +1,191 @@
+[24-Aug-2017 15:28:44 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:31:48 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:34:01 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:49
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(49): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 49
+[24-Aug-2017 15:40:58 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:42:04 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:42:34 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:43:05 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:44:10 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:49
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 49
+[24-Aug-2017 15:58:15 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:69
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 69
+[24-Aug-2017 16:01:15 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:69
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 69
+[24-Aug-2017 16:02:19 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:69
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 69
+[24-Aug-2017 16:02:25 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:69
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 69
+[24-Aug-2017 16:02:54 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:69
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 69
+[24-Aug-2017 20:49:41 UTC] PHP Fatal error:  Call to undefined function decodifica() in /home/kipet/public_html/sistema/sessao_produto/consultar.php on line 9
+[24-Aug-2017 20:49:43 UTC] PHP Fatal error:  Call to undefined function decodifica() in /home/kipet/public_html/sistema/sessao_produto/consultar.php on line 9
+[24-Aug-2017 20:50:05 UTC] PHP Fatal error:  Call to undefined function decodifica() in /home/kipet/public_html/sistema/sessao_produto/consultar.php on line 9
+[24-Aug-2017 16:58:57 America/Cuiaba] PHP Fatal error:  Call to a member function execute() on null in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 37
+[24-Aug-2017 17:41:31 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kipet_site.produto_foto' doesn't exist' in /home/kipet/public_html/sistema/sessao_produto/excluir.php:10
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/excluir.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/excluir.php on line 10
+[24-Aug-2017 17:42:50 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kipet_site.produto_foto' doesn't exist' in /home/kipet/public_html/sistema/sessao_produto/excluir.php:10
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/excluir.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/excluir.php on line 10
+[24-Aug-2017 17:43:22 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kipet_site.categoria_produto' doesn't exist' in /home/kipet/public_html/sistema/sessao_produto/excluir.php:14
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/excluir.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/excluir.php on line 14
+[24-Aug-2017 18:47:40 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:105
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 105
+[24-Aug-2017 19:05:39 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'arquivo_foto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:107
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(107): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 107
+[24-Aug-2017 19:08:42 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'arquivo_foto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:107
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(107): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 107
+[24-Aug-2017 19:10:41 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'arquivo_foto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:105
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 105
+[24-Aug-2017 23:46:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 23:46:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 23:46:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 23:46:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 23:46:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 23:46:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 21:03:27 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 101
+[24-Aug-2017 21:04:36 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 101
+[24-Aug-2017 21:05:24 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 101
+[24-Aug-2017 21:05:59 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 101
+[24-Aug-2017 21:07:11 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 99
+[24-Aug-2017 21:08:43 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 99
+[24-Aug-2017 21:14:02 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 105
+[24-Aug-2017 21:18:00 America/Cuiaba] PHP Warning:  move_uploaded_file(/sistema/conteudos/produto/40/temp/dog179-300x225.jpg): failed to open stream: No such file or directory in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 97
+[24-Aug-2017 21:18:00 America/Cuiaba] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpa56bYv' to '/sistema/conteudos/produto/40/temp/dog179-300x225.jpg' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 97
+[24-Aug-2017 22:18:07 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 102
+[24-Aug-2017 22:24:00 America/Cuiaba] PHP Fatal error:  Call to undefined function reArrayFiles() in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 106
+[25-Aug-2017 16:32:21 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty' in /home/kipet/public_html/sistema/sessao_produto/editar.php:118
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/editar.php(118): PDO->query('')
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 118
+[25-Aug-2017 16:39:42 America/Cuiaba] PHP Fatal error:  Call to undefined method PDOStatement::fetchArray() in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 119
+[25-Aug-2017 16:39:43 America/Cuiaba] PHP Fatal error:  Call to undefined method PDOStatement::fetchArray() in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 119
+[25-Aug-2017 16:40:01 America/Cuiaba] PHP Fatal error:  Call to undefined method PDOStatement::fetchArray() in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 119
+[25-Aug-2017 16:40:03 America/Cuiaba] PHP Fatal error:  Call to undefined method PDOStatement::fetchArray() in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 119
+[25-Aug-2017 16:51:02 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nome_produto = 'Coleira para cães'
+                            valor_produto = ' at line 3' in /home/kipet/public_html/sistema/sessao_produto/editar.php:55
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/editar.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 55
+[25-Aug-2017 16:52:21 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(referencia_produto = 'C2564',
+                            nome_produto = 'Colei' at line 2' in /home/kipet/public_html/sistema/sessao_produto/editar.php:55
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/editar.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 55
+[25-Aug-2017 16:53:06 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(referencia_produto = 'C2564',
+                            nome_produto = 'Coler' at line 2' in /home/kipet/public_html/sistema/sessao_produto/editar.php:55
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/editar.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 55
+[25-Aug-2017 16:55:37 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'estoque_produt' in 'field list'' in /home/kipet/public_html/sistema/sessao_produto/editar.php:56
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/editar.php(56): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 56
+[25-Aug-2017 16:58:54 America/Cuiaba] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/kipet/public_html/sistema/sessao_produto/form_produto.php on line 91
+[25-Aug-2017 16:58:54 America/Cuiaba] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/kipet/public_html/sistema/sessao_produto/form_produto.php on line 104
+[20-Jun-2018 14:52:01 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:01 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:01 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:01 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:02 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:02 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:02 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:02 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:46 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:46 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:46 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:46 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:47 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:47 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:47 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 14:52:47 America/Cuiaba] PHP Warning:  Illegal string offset 'arquivo_foto' in /home/kipet/public_html/sistema/sessao_produto/fotos_produto.php on line 34
+[20-Jun-2018 15:27:37 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cliente.nome_cliente' in 'order clause'' in /home/kipet/public_html/sistema/sessao_cliente/consultar.php:12
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_cliente/consultar.php(12): PDO->query('SELECT *\n      ...')
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_cliente/consultar.php on line 12
+[20-Jun-2018 15:27:39 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cliente.nome_cliente' in 'order clause'' in /home/kipet/public_html/sistema/sessao_cliente/consultar.php:12
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_cliente/consultar.php(12): PDO->query('SELECT *\n      ...')
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_cliente/consultar.php on line 12
+[01-Aug-2018 11:36:09 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cliente.nome_cliente' in 'order clause'' in /home/realmat/public_html/sistema/sessao_cliente/consultar.php:12
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_cliente/consultar.php(12): PDO->query('SELECT *\n      ...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_cliente/consultar.php on line 12
+[01-Aug-2018 11:36:19 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cliente.nome_cliente' in 'order clause'' in /home/realmat/public_html/sistema/sessao_cliente/consultar.php:12
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_cliente/consultar.php(12): PDO->query('SELECT *\n      ...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_cliente/consultar.php on line 12

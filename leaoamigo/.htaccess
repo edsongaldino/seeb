@@ -1,0 +1,11 @@
+RewriteEngine on
+
+# informacoes sobre regra de acesso euripedesbarsanulfo.org.br
+
+# evita o download do arquivo .htaccess via browser
+RewriteRule ^.htaccess$ /index.php [NC,L]
+
+# força o uso do www em tudo
+Options +FollowSymLinks
+RewriteCond %{HTTP_HOST} ^euripedesbarsanulfo.org.br [NC]
+RewriteRule ^(.*)$ https://www.euripedesbarsanulfo.org.br/$1 [L,R=301]

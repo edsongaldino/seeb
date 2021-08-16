@@ -1,0 +1,316 @@
+[24-Aug-2017 15:28:44 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:31:48 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:34:01 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:49
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(49): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 49
+[24-Aug-2017 15:40:58 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:42:04 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:42:34 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:43:05 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:48
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(48): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 48
+[24-Aug-2017 15:44:10 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'destaque_produto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:49
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(49): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 49
+[24-Aug-2017 15:58:15 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:69
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 69
+[24-Aug-2017 16:01:15 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:69
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 69
+[24-Aug-2017 16:02:19 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:69
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 69
+[24-Aug-2017 16:02:25 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:69
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 69
+[24-Aug-2017 16:02:54 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:69
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(69): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 69
+[24-Aug-2017 20:49:41 UTC] PHP Fatal error:  Call to undefined function decodifica() in /home/kipet/public_html/sistema/sessao_produto/consultar.php on line 9
+[24-Aug-2017 20:49:43 UTC] PHP Fatal error:  Call to undefined function decodifica() in /home/kipet/public_html/sistema/sessao_produto/consultar.php on line 9
+[24-Aug-2017 20:50:05 UTC] PHP Fatal error:  Call to undefined function decodifica() in /home/kipet/public_html/sistema/sessao_produto/consultar.php on line 9
+[24-Aug-2017 16:58:57 America/Cuiaba] PHP Fatal error:  Call to a member function execute() on null in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 37
+[24-Aug-2017 17:41:31 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kipet_site.produto_foto' doesn't exist' in /home/kipet/public_html/sistema/sessao_produto/excluir.php:10
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/excluir.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/excluir.php on line 10
+[24-Aug-2017 17:42:50 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kipet_site.produto_foto' doesn't exist' in /home/kipet/public_html/sistema/sessao_produto/excluir.php:10
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/excluir.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/excluir.php on line 10
+[24-Aug-2017 17:43:22 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kipet_site.categoria_produto' doesn't exist' in /home/kipet/public_html/sistema/sessao_produto/excluir.php:14
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/excluir.php(14): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/excluir.php on line 14
+[24-Aug-2017 18:47:40 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:105
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 105
+[24-Aug-2017 19:05:39 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'arquivo_foto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:107
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(107): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 107
+[24-Aug-2017 19:08:42 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'arquivo_foto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:107
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(107): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 107
+[24-Aug-2017 19:10:41 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'arquivo_foto' cannot be null' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php:105
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/adicionar.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 105
+[24-Aug-2017 23:46:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 23:46:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 23:46:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 23:46:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 23:46:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 23:46:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 206
+[24-Aug-2017 21:03:27 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 101
+[24-Aug-2017 21:04:36 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 101
+[24-Aug-2017 21:05:24 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 101
+[24-Aug-2017 21:05:59 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 101
+[24-Aug-2017 21:07:11 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 99
+[24-Aug-2017 21:08:43 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 99
+[24-Aug-2017 21:14:02 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 105
+[24-Aug-2017 21:18:00 America/Cuiaba] PHP Warning:  move_uploaded_file(/sistema/conteudos/produto/40/temp/dog179-300x225.jpg): failed to open stream: No such file or directory in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 97
+[24-Aug-2017 21:18:00 America/Cuiaba] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpa56bYv' to '/sistema/conteudos/produto/40/temp/dog179-300x225.jpg' in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 97
+[24-Aug-2017 22:18:07 America/Cuiaba] PHP Warning:  move_uploaded_file() expects parameter 1 to be string, array given in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 102
+[24-Aug-2017 22:24:00 America/Cuiaba] PHP Fatal error:  Call to undefined function reArrayFiles() in /home/kipet/public_html/sistema/sessao_produto/adicionar.php on line 106
+[25-Aug-2017 16:32:21 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty' in /home/kipet/public_html/sistema/sessao_produto/editar.php:118
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/editar.php(118): PDO->query('')
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 118
+[25-Aug-2017 16:39:42 America/Cuiaba] PHP Fatal error:  Call to undefined method PDOStatement::fetchArray() in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 119
+[25-Aug-2017 16:39:43 America/Cuiaba] PHP Fatal error:  Call to undefined method PDOStatement::fetchArray() in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 119
+[25-Aug-2017 16:40:01 America/Cuiaba] PHP Fatal error:  Call to undefined method PDOStatement::fetchArray() in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 119
+[25-Aug-2017 16:40:03 America/Cuiaba] PHP Fatal error:  Call to undefined method PDOStatement::fetchArray() in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 119
+[25-Aug-2017 16:51:02 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nome_produto = 'Coleira para cães'
+                            valor_produto = ' at line 3' in /home/kipet/public_html/sistema/sessao_produto/editar.php:55
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/editar.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 55
+[25-Aug-2017 16:52:21 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(referencia_produto = 'C2564',
+                            nome_produto = 'Colei' at line 2' in /home/kipet/public_html/sistema/sessao_produto/editar.php:55
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/editar.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 55
+[25-Aug-2017 16:53:06 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(referencia_produto = 'C2564',
+                            nome_produto = 'Coler' at line 2' in /home/kipet/public_html/sistema/sessao_produto/editar.php:55
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/editar.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 55
+[25-Aug-2017 16:55:37 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'estoque_produt' in 'field list'' in /home/kipet/public_html/sistema/sessao_produto/editar.php:56
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_produto/editar.php(56): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_produto/editar.php on line 56
+[25-Aug-2017 16:58:54 America/Cuiaba] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/kipet/public_html/sistema/sessao_produto/form_produto.php on line 91
+[25-Aug-2017 16:58:54 America/Cuiaba] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/kipet/public_html/sistema/sessao_produto/form_produto.php on line 104
+[22-May-2018 14:57:31 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'codigo_categoria' in 'where clause'' in /home/kipet/public_html/sistema/sessao_categoria/excluir.php:16
+Stack trace:
+#0 /home/kipet/public_html/sistema/sessao_categoria/excluir.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/kipet/public_html/sistema/sessao_categoria/excluir.php on line 16
+[22-May-2018 15:12:43 America/Cuiaba] PHP Fatal error:  Call to a member function execute() on null in /home/kipet/public_html/sistema/sessao_categoria/adicionar.php on line 47
+[22-May-2018 15:28:13 America/Cuiaba] PHP Fatal error:  Call to a member function execute() on null in /home/kipet/public_html/sistema/sessao_categoria/adicionar.php on line 48
+[22-May-2018 15:30:23 America/Cuiaba] PHP Fatal error:  Call to a member function execute() on null in /home/kipet/public_html/sistema/sessao_categoria/adicionar.php on line 46
+[22-May-2018 15:30:39 America/Cuiaba] PHP Fatal error:  Call to a member function execute() on null in /home/kipet/public_html/sistema/sessao_categoria/adicionar.php on line 46
+[07-Aug-2018 10:34:44 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'realmat_site.produto_fabricante' doesn't exist' in /home/realmat/public_html/sistema/sessao_fabricante/excluir.php:12
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_fabricante/excluir.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_fabricante/excluir.php on line 12
+[08-Oct-2018 20:13:58 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/realmat/public_html/sistema/sessao_banner/adicionar.php:35
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_banner/adicionar.php(35): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_banner/adicionar.php on line 35
+[08-Oct-2018 20:14:41 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data_incial' in 'field list'' in /home/realmat/public_html/sistema/sessao_banner/adicionar.php:35
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_banner/adicionar.php(35): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_banner/adicionar.php on line 35
+[08-Oct-2018 20:23:40 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'codigo' in 'field list'' in /home/realmat/public_html/sistema/sessao_banner/editar.php:9
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_banner/editar.php(9): PDO->query('SELECT codigo_b...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_banner/editar.php on line 9
+[09-Oct-2018 00:35:00 UTC] PHP Parse error:  syntax error, unexpected '$filename' (T_VARIABLE), expecting ':' in /home/realmat/public_html/sistema/sessao_banner/editar.php on line 33
+[09-Oct-2018 00:35:02 UTC] PHP Parse error:  syntax error, unexpected '$filename' (T_VARIABLE), expecting ':' in /home/realmat/public_html/sistema/sessao_banner/editar.php on line 33
+[08-Oct-2018 21:35:05 America/Cuiaba] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/realmat/public_html/sistema/sessao_banner/editar.php on line 25
+[08-Oct-2018 21:35:39 America/Cuiaba] PHP Warning:  md5() expects at least 1 parameter, 0 given in /home/realmat/public_html/sistema/sessao_banner/editar.php on line 25
+[24-Oct-2018 12:57:09 America/Cuiaba] PHP Warning:  move_uploaded_file(../../conteudos/escola/15404002295bd0a465ae1f4.png): failed to open stream: No such file or directory in /home/realmat/public_html/sistema/sessao_escola/adicionar.php on line 15
+[24-Oct-2018 12:57:09 America/Cuiaba] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpw0Sawz' to '../../conteudos/escola/15404002295bd0a465ae1f4.png' in /home/realmat/public_html/sistema/sessao_escola/adicionar.php on line 15
+[24-Oct-2018 12:57:37 America/Cuiaba] PHP Warning:  require_once(form_escola.php): failed to open stream: No such file or directory in /home/realmat/public_html/sistema/sessao_escola/editar.php on line 88
+[24-Oct-2018 12:57:37 America/Cuiaba] PHP Fatal error:  require_once(): Failed opening required 'form_escola.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/realmat/public_html/sistema/sessao_escola/editar.php on line 88
+[26-Oct-2018 10:50:52 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'turma_status' in 'field list'' in /home/realmat/public_html/sistema/sessao_escola/turmas.php:12
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/turmas.php(12): PDO->query('SELECT turma.co...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 12
+[26-Oct-2018 10:51:13 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 108
+[26-Oct-2018 10:51:16 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 108
+[26-Oct-2018 10:51:19 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 108
+[26-Oct-2018 10:53:58 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:55:40 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:56:13 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:56:15 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:56:21 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:56:24 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:57:24 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:57:48 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:58:28 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:58:31 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:58:37 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:58:40 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:58:43 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:59:45 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 10:59:47 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 11:06:57 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 11:07:04 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 11:07:30 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 11:07:52 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 11:08:24 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/turmas.php on line 113
+[26-Oct-2018 11:11:33 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'codigo_escola' cannot be null' in /home/realmat/public_html/sistema/sessao_escola/adicionar_turma.php:23
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/adicionar_turma.php(23): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/adicionar_turma.php on line 23
+[26-Oct-2018 11:13:05 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'codigo_escola' cannot be null' in /home/realmat/public_html/sistema/sessao_escola/adicionar_turma.php:23
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/adicionar_turma.php(23): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/adicionar_turma.php on line 23
+[26-Oct-2018 12:03:50 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 254
+[26-Oct-2018 12:05:07 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 251
+[26-Oct-2018 12:05:07 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 259
+[26-Oct-2018 12:05:07 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 267
+[26-Oct-2018 12:05:07 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 298
+[26-Oct-2018 12:12:59 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 251
+[26-Oct-2018 12:12:59 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 259
+[26-Oct-2018 12:12:59 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 267
+[26-Oct-2018 12:12:59 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 298
+[26-Oct-2018 12:17:43 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 251
+[26-Oct-2018 12:17:43 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 259
+[26-Oct-2018 12:17:43 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 267
+[26-Oct-2018 12:17:43 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 298
+[29-Oct-2018 09:52:32 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 251
+[29-Oct-2018 09:52:32 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 259
+[29-Oct-2018 09:52:32 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 267
+[29-Oct-2018 09:52:32 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 298
+[29-Oct-2018 10:02:45 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 286
+[29-Oct-2018 10:08:09 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 286
+[29-Oct-2018 10:09:04 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 286
+[29-Oct-2018 10:09:40 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 288
+[29-Oct-2018 10:13:05 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 288
+[29-Oct-2018 10:13:09 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 288
+[29-Oct-2018 10:16:04 America/Cuiaba] PHP Warning:  Invalid argument supplied for foreach() in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 284
+[29-Oct-2018 15:52:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 40
+[29-Oct-2018 15:53:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 40
+[29-Oct-2018 15:55:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 15:55:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 15:56:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 15:56:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 15:57:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 15:57:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 15:57:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 16:00:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 16:01:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 16:02:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 16:02:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 16:02:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 16:02:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 16:02:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 16:02:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/realmat/public_html/sistema/sessao_escola/carrega_produto.php on line 37
+[29-Oct-2018 12:30:36 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'produto.arquivo' in 'field list'' in /home/realmat/public_html/sistema/sessao_escola/lista.php:18
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/lista.php(18): PDO->query('SELECT lista.co...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 18
+[29-Oct-2018 12:30:37 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'produto.arquivo' in 'field list'' in /home/realmat/public_html/sistema/sessao_escola/lista.php:18
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/lista.php(18): PDO->query('SELECT lista.co...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 18
+[29-Oct-2018 12:30:40 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'produto.arquivo' in 'field list'' in /home/realmat/public_html/sistema/sessao_escola/lista.php:18
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/lista.php(18): PDO->query('SELECT lista.co...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 18
+[29-Oct-2018 12:32:03 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'produto.arquivo' in 'field list'' in /home/realmat/public_html/sistema/sessao_escola/lista.php:20
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/lista.php(20): PDO->query('SELECT lista.co...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 20
+[29-Oct-2018 12:32:04 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'produto.arquivo' in 'field list'' in /home/realmat/public_html/sistema/sessao_escola/lista.php:20
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/lista.php(20): PDO->query('SELECT lista.co...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 20
+[29-Oct-2018 12:32:31 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'produto_produto.arquivo_foto' in 'field list'' in /home/realmat/public_html/sistema/sessao_escola/lista.php:20
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/lista.php(20): PDO->query('SELECT lista.co...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 20
+[29-Oct-2018 12:32:32 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'produto_produto.arquivo_foto' in 'field list'' in /home/realmat/public_html/sistema/sessao_escola/lista.php:20
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/lista.php(20): PDO->query('SELECT lista.co...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 20
+[29-Oct-2018 12:32:32 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'produto_produto.arquivo_foto' in 'field list'' in /home/realmat/public_html/sistema/sessao_escola/lista.php:20
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/lista.php(20): PDO->query('SELECT lista.co...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 20
+[29-Oct-2018 12:32:33 America/Cuiaba] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'produto_produto.arquivo_foto' in 'field list'' in /home/realmat/public_html/sistema/sessao_escola/lista.php:20
+Stack trace:
+#0 /home/realmat/public_html/sistema/sessao_escola/lista.php(20): PDO->query('SELECT lista.co...')
+#1 {main}
+  thrown in /home/realmat/public_html/sistema/sessao_escola/lista.php on line 20
