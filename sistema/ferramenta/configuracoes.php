@@ -1,10 +1,9 @@
 <?php
 // informações do banco de dados (SITE)
-define("BD_HOST","euripedesbarsanulfo.org.br");
-define("BD_USUARIO","euripede_sistema");
-define("BD_SENHA","6ZL0gyC6^H,#");
-define("BD_BANCO","euripede_sistema");
-
+define("BD_HOST","seeb_site.mysql.dbaas.com.br");
+define("BD_USUARIO","seeb_site");
+define("BD_SENHA","Web@259864");
+define("BD_BANCO","seeb_site");
 
 // informações do painel
 define("TITULO_OFF","Datapix");
