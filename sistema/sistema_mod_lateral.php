@@ -121,12 +121,14 @@
                     </a>
                 </li>
 
+                <!--
                  <li>
                     <a href="sessao_emailmarketing/consultar.php">
                     <i class="material-icons">send</i>
                         <p>E-mail Marketing</p>
                     </a>
                 </li>
+-->
                 
                 </ul>
             </div>
