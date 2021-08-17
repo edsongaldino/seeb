@@ -1,11 +1,6 @@
 RewriteEngine on
-RewriteBase /
 Options +FollowSymLinks
 RewriteCond %{HTTP_HOST} ^euripedesbarsanulfo.org.br [NC]
-RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
-RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^(.*)$ https://www.euripedesbarsanulfo.org.br/$1 [R=301,L] 
-
 RewriteRule ^texto/([a-z0-9-]+)-([0-9-]+)/?$ texto.php?id=$2 [NC]
 RewriteRule ^/inscricao/escola-de-estudos-espiritas inscricao.php?id=1 [NC]
